@@ -10,7 +10,6 @@ public class Card {
         return type;
     }
 
-    @Override
     public String toString() {
         return type.toString();
     }
